@@ -1,23 +1,14 @@
-# IE CTF 2024
-A repository used in the planning of IE CTF 2024
+# Happy Haaland
 
-## Guidelines for adding a challenge
+**Category -** ```MISC```
 
-1. Make sure you create ***your own branch*** for ***every challenge*** you want to upload. Branch nomenclature can be  \<your_name\>_\<challenge_name\>. Once you have done so and committed all the required files and README, create a pull-request. **Some of us will take a look at the challenge and then add it to the repo. Do not push the challenge directly onto the main branch, or merge them yourself from your branch onto main**. 
 
-2. Make a directory for each challenge in the respective *category-directory*. Everything related to that challenge should be present in that directory. The structure of your task folder would be : `<category>/<challenge_name>`. The different category directories will be : 
-    - Crypto
-    - Forensics
-    - Misc (includes Docker chals, OSINT)
-    - Blockchain
-    - RE
-    - Web
-    - Pwn
+**To Be Uploaded on Webiste**
 
-3. For each challenge-dir, create a README. Specify what is to be uploaded onto the website clearly. There is a sample README format which you can follow
+Erling Braut Haaland (né Håland; Urban East Norwegian: born 21 July 2000) is a Norwegian professional footballer who plays as a striker for Premier League club Manchester City and the Norway national team. Considered one of the best players in the world, he is known for his speed, strength, positioning, and finishing inside the box. In his debut Premier League season, Haaland broke the record for the most goals scored by a player in a single season, with 36.
 
-4. If you want to provide any huge files or binary files(for RE) then upload them to your drive and provide a link to that files. 
+Can you make him Happy?
 
-5. Make sure to use the ***latest versions of dependencies.***
+To download the Happy Haaland App [Click Me](https://drive.google.com/drive/folders/14Kt132D6ihhDlO7gD12D16DGp2qsIGqc?usp=sharing)
 
-==Feel free to ask anything on the group==
+**Only Link has to be given to the participants**
