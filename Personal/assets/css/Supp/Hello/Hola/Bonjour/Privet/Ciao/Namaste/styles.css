@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+.flag{
+    color: white;
+}
+
+.car{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
