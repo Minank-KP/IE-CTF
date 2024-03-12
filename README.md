@@ -2,14 +2,16 @@
 
 ***Category : Crypto***
 
-***Description to be uploaded on the website***
+***Description to be uploaded on the website***  
+
 There used to be two friends who liked to solve cryptic messages. Find one of their encounters here.
 
 The flag should be in the form of  ieCTF{decrypted_message}.
 
 
 
-***The decrypted message and key***
+***The decrypted message and key***  
+
 Key: CAESAR
 Message: CRYP70GR4PHY_C4N_B3_73D10U5
 
