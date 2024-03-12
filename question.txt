@@ -1,0 +1,20 @@
+Julius Caesar and Blaise de Vigenere stumbled upon a cryptic message: ERCH70GI4RHC_U4N_S3_73F10U5. Blaise knew how to crack it but Julius was unable t figure it out.
+Julius was aware of the way to crack it but he couldn't figure out the key.
+So Blaise gave him a hint to get the key and asked him to use his own brain six times to get it.
+
+Hint: FNRYREVUPSTGQJW
+Multiples of 3 can be fun.
+
+
+1 12 2 6 9 14
+
+
+
+
+
+Key: CAESAR
+FLAG: CRYP70GR4PHY_C4N_B3_73D10U5
+
+
+
+
