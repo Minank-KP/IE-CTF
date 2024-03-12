@@ -1,23 +1,10 @@
-# IE CTF 2024
-A repository used in the planning of IE CTF 2024
+# mona lisa (Q-Name)
 
-## Guidelines for adding a challenge
+**Category -** ```RE```
 
-1. Make sure you create ***your own branch*** for ***every challenge*** you want to upload. Branch nomenclature can be  \<your_name\>_\<challenge_name\>. Once you have done so and committed all the required files and README, create a pull-request. **Some of us will take a look at the challenge and then add it to the repo. Do not push the challenge directly onto the main branch, or merge them yourself from your branch onto main**. 
 
-2. Make a directory for each challenge in the respective *category-directory*. Everything related to that challenge should be present in that directory. The structure of your task folder would be : `<category>/<challenge_name>`. The different category directories will be : 
-    - Crypto
-    - Forensics
-    - Misc (includes Docker chals, OSINT)
-    - Blockchain
-    - RE
-    - Web
-    - Pwn
+**Desc to be uploaded on website**
 
-3. For each challenge-dir, create a README. Specify what is to be uploaded onto the website clearly. There is a sample README format which you can follow
+The Mona Lisa (/ˌmoʊnə ˈliːsə/ MOH-nə LEE-sə; Italian: Gioconda [dʒoˈkonda] or Monna Lisa [ˈmɔnna ˈliːza]; French: Joconde [ʒɔkɔ̃d]) is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as "the best known, the most visited, the most written about, the most sung about, and the most parodied work of art in the world". The painting's novel qualities include the subject's enigmatic expression, monumentality of the composition, the subtle modelling of forms, and the atmospheric illusionism.
 
-4. If you want to provide any huge files or binary files(for RE) then upload them to your drive and provide a link to that files. 
-
-5. Make sure to use the ***latest versions of dependencies.***
-
-==Feel free to ask anything on the group==
+The painting has been traditionally considered to depict the Italian noblewoman Lisa del Giocondo. It is painted in oil on a white Lombardy poplar panel. Leonardo never gave the painting to the Giocondo family. It was believed to have been painted between 1503 and 1506; however, Leonardo may have continued working on it as late as 1517. It was acquired by King Francis I of France and is now the property of the French Republic. It has normally been on display at the Louvre in Paris since 1797.
