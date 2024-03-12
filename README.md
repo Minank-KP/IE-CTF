@@ -11,4 +11,4 @@ Can you make him Happy?
 
 To download the Happy Haaland App [Click Me](https://drive.google.com/drive/folders/14Kt132D6ihhDlO7gD12D16DGp2qsIGqc?usp=sharing)
 
-**Only Link has to be given to the participants**
+**Link has to be given to the participants**
