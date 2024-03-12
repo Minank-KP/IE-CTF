@@ -4,9 +4,6 @@
 
 ***Desc To Be Uploaded***
 
-
 Can you catch me ?
 
-**To Be Given**
-
-[site link](https://messy447.netlify.app/) 
+**To Be Given to the participants - **[site link](https://messy447.netlify.app/) 
