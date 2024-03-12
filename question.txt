@@ -12,8 +12,7 @@ Multiples of 3 can be fun.
 
 
 
-Key: CAESAR
-FLAG: CRYP70GR4PHY_C4N_B3_73D10U5
+
 
 
 
