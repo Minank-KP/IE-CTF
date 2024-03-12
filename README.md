@@ -1,23 +1,17 @@
-# IE CTF 2024
-A repository used in the planning of IE CTF 2024
+# caesar vigenere
 
-## Guidelines for adding a challenge
+***Category : Crypto***
 
-1. Make sure you create ***your own branch*** for ***every challenge*** you want to upload. Branch nomenclature can be  \<your_name\>_\<challenge_name\>. Once you have done so and committed all the required files and README, create a pull-request. **Some of us will take a look at the challenge and then add it to the repo. Do not push the challenge directly onto the main branch, or merge them yourself from your branch onto main**. 
+***Description to be uploaded on the website***
+There used to be two friends who liked to solve cryptic messages. Find one of their encounters here.
 
-2. Make a directory for each challenge in the respective *category-directory*. Everything related to that challenge should be present in that directory. The structure of your task folder would be : `<category>/<challenge_name>`. The different category directories will be : 
-    - Crypto
-    - Forensics
-    - Misc (includes Docker chals, OSINT)
-    - Blockchain
-    - RE
-    - Web
-    - Pwn
+The flag should be in the form of  ieCTF{decrypted_message}.
 
-3. For each challenge-dir, create a README. Specify what is to be uploaded onto the website clearly. There is a sample README format which you can follow
 
-4. If you want to provide any huge files or binary files(for RE) then upload them to your drive and provide a link to that files. 
 
-5. Make sure to use the ***latest versions of dependencies.***
+***The decrypted message and key***
+Key: CAESAR
+Message: CRYP70GR4PHY_C4N_B3_73D10U5
 
-==Feel free to ask anything on the group==
+Flag: ieCTF{CRYP70GR4PHY_C4N_B3_73D10U5}
+
