@@ -8,6 +8,8 @@
 ### Flag: IECTF{CRYP70GR4PHY_C4N_B3_73D10U5}
 
 
+### Difficulty : Medium
+
 
 ## Problem Statement  
 
