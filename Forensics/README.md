@@ -7,6 +7,9 @@
 ### Flag : IECTF{P1R4CY_1S_4N_4RT}
 
 
+### Difficulty : Easy-Medium
+
+
 ## Problem Statement
 
 A pirate in search of a treasure finds it locked with a 4 digit numeric pin. Pirates used to say 'aye' but modern day pirates say 'leet'.  
