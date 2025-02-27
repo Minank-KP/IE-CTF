@@ -20,6 +20,6 @@ https://drive.google.com/file/d/1Af12uBa3udPOpKA68HhV1mGzO_xn89tO/view?usp=shari
 ### Hints :
 
 ## Solution
-
+**Use reversem engineering tool like gidhra to get the flag on the ```.exe``` file**
 
 
