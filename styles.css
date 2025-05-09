@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    font-family: sans-serif;
+}
+
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    font-size: 80px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}

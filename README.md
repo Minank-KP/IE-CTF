@@ -1,23 +1,9 @@
-# IE CTF 2024
-A repository used in the planning of IE CTF 2024
+# Catch-Me(Q-Name)
 
-## Guidelines for adding a challenge
+**Category -** ```Web Exploitation```
 
-1. Make sure you create ***your own branch*** for ***every challenge*** you want to upload. Branch nomenclature can be  \<your_name\>_\<challenge_name\>. Once you have done so and committed all the required files and README, create a pull-request. **Some of us will take a look at the challenge and then add it to the repo. Do not push the challenge directly onto the main branch, or merge them yourself from your branch onto main**. 
+***Desc To Be Uploaded***
 
-2. Make a directory for each challenge in the respective *category-directory*. Everything related to that challenge should be present in that directory. The structure of your task folder would be : `<category>/<challenge_name>`. The different category directories will be : 
-    - Crypto
-    - Forensics
-    - Misc (includes Docker chals, OSINT)
-    - Blockchain
-    - RE
-    - Web
-    - Pwn
+Can you catch me ?
 
-3. For each challenge-dir, create a README. Specify what is to be uploaded onto the website clearly. There is a sample README format which you can follow
-
-4. If you want to provide any huge files or binary files(for RE) then upload them to your drive and provide a link to that files. 
-
-5. Make sure to use the ***latest versions of dependencies.***
-
-==Feel free to ask anything on the group==
+**To Be Given to the participants -** [site link](https://messy447.netlify.app/) 
